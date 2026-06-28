@@ -37,3 +37,5 @@ img_flip.save(output_image)
 | 入力画像 | 出力画像 |
 |:---:|:---:|
 | <img width="640" height="468" alt="output" src="https://github.com/user-attachments/assets/ea8fc3d3-def7-4c7d-bbd1-a353b2867a53" />|<img width="640" height="468" alt="input" src="https://github.com/user-attachments/assets/cc7abcf6-dbc4-45ac-937c-ac719cafdb41" />|
+
+以上
